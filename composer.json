@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-queueable-action",
+    "name": "scrawlr/laravel-queueable-action",
     "description": "Queueable action support in Laravel",
     "keywords": [
         "spatie",
@@ -35,7 +35,7 @@
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "laravel/framework": "^6.0|^7.0|^8.0"
+        "laravel/lumen-framework": "^6.0|^7.0|^8.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.4",
